@@ -1,0 +1,11 @@
+name: "Katherine Churey"
+navbar:
+  title: "Katherine Churey"
+  left:
+    - text: "Home"
+    - text: "Research"
+    
+output:
+  html_document:
+    theme: sandstone
+output_dir: "."
