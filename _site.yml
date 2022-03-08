@@ -3,7 +3,9 @@ navbar:
   title: "Katherine Churey"
   left:
     - text: "Home"
+      href: index.html
     - text: "Research"
+      href: index.html
     
 output:
   html_document:
