@@ -2,10 +2,10 @@ name: "Katherine Churey"
 navbar:
   title: "Katherine Churey"
   left:
-    - text: "HOME"
+    - text: "Home"
       href: index.html
     - text: "Research"
-      href: index.html
+      href: research.html
     
 output:
   html_document:
