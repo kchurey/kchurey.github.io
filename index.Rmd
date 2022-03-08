@@ -2,6 +2,7 @@
 title: "Welcome!"
 output: 
   html_document:
+    theme: sandstone
 ---
 
 ```{r setup, include=FALSE}
